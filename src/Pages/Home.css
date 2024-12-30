@@ -108,12 +108,12 @@ margin-left: 20px;
   /* For screens up to 768px */
   @media (max-width: 768px) {
     .home img {
-      margin-left: 600px;
+      margin-left: 200px;
       height: 200px;
     }
     .home h1 {
       margin-left: 18%;
-      margin-top: -20%;
+      margin-top: 0%;
     }
     .home p {
       margin-left: 50%;
@@ -124,19 +124,23 @@ margin-left: 20px;
       height:50px;
     }
     .card {
-       
+     
       width: 700px;
       height: auto;
     }
   }
   .box iframe {
+
     margin-left: 0;
     width: 40%;
     gap: 10px;
    margin-left: 20px;
    margin-bottom: 20px;
   }
-  
+
+
+
+ 
   /* For screens up to 300px */
   @media (max-width: 320px) {
     .home {
