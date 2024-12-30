@@ -108,24 +108,26 @@ margin-left: 20px;
   /* For screens up to 768px */
   @media (max-width: 768px) {
     .home img {
-      margin-left: 200px;
+      margin-left: 130px;
       height: 200px;
     }
     .home h1 {
-      margin-left: 18%;
+      margin-left: 12%;
       margin-top: 0%;
+      font-size: 22px;
     }
     .home p {
       margin-left: 50%;
     }
     .list {
+        margin-top: 20px;
       flex-direction: row;
       width: 190px;
       height:50px;
     }
     .card {
      
-      width: 700px;
+      width: 350px;
       height: auto;
     }
   }
